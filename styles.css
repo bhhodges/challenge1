@@ -1,0 +1,23 @@
+#header {
+    background-color: white;
+    color: pink;
+    text-align: center;
+    height: 100px;
+    width: 1885px;
+    font-size: 25px;
+    z-index: 1049;
+    margin-top: 0;
+    padding-top: 0;
+    position: fixed;
+    top: 0;
+}
+
+#content{
+    background-color: lightpink;
+}
+
+#main{
+    margin: 0;
+    padding-top: 0;
+
+}
